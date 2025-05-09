@@ -1,0 +1,13 @@
+{
+  "name": "Test Font",
+  "description": "A test font with the letter A",
+  "author": "Test User",
+  "isPublic": true,
+  "tags": [
+    "test",
+    "simple"
+  ],
+  "createdAt": "2025-05-09T11:41:10.565Z",
+  "characterCount": 1,
+  "format": "ttf"
+}
